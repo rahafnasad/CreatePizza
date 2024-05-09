@@ -1,8 +1,10 @@
-# React + Vite
+# A simple application on React to make pizza 🍕🍕🍕
+![Cap1ture](https://github.com/rahafnasad/CreatePizza/assets/135382124/6711eb62-392a-4b8c-9fb0-2faf9be219ca)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![2](https://github.com/rahafnasad/CreatePizza/assets/135382124/de2249b2-b5db-404b-8bd8-44f6722b8178)
 
-Currently, two official plugins are available:
+## Code execution 👀​
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+https://github.com/rahafnasad/CreatePizza/assets/135382124/d481a88d-f217-496c-b249-5482cc5acf6c
+
